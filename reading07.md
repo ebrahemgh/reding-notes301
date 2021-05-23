@@ -2,3 +2,12 @@ Geocoding is the process of converting addresses into geographic coordinates ,Th
 HTTPS is required for requests that use an API key, and recommended for requests that use a client ID. HTTPS is also required for applications that include sensitive user data - such as a user's location - in requests.
 
 Required parameters in a geocoding request
+
+Did you get your API key?
+yes
+Did you get your API key?
+yes
+Did you get your API key?
+yes
+Did you get your API key?
+yes
